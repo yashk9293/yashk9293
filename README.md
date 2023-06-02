@@ -47,7 +47,7 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashk9293&show_icons=true&locale=en&layout=compact" alt="yashk9293" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&locale=en" alt="yashk9293" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&locale=en&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true" alt="yashk9293" /></p>
 
 
 <!---
