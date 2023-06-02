@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Kumar aka @yashk9293</h1>
+<h1 align="center">Hi 👋, I'm Yash Kumar</h1>
 <h3 align="center">MERN Stack Developer | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk9293&label=Profile%20views&color=0e75b6&style=flat" alt="yashk9293" /> </p>
@@ -24,9 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&locale=en" alt="yashk9293" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashk9293&" alt="yashk9293" /></p>
-
-- Looking forward to helping people with all the knowledge i will gain in the upcoming years.
-- Till then peace......✌️✌️
 
 <!---
 yashk9293/yashk9293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
