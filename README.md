@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashk_9293" target="blank"><img src="https://img.shields.io/twitter/follow/yashk_9293?logo=twitter&style=for-the-badge" alt="yashk_9293" /></a> </p>
 
-- 💬 Ask me about **Web Dev, CP, DSA, Programming**
+- 💬 Ask me about **Web Dev, CP, DSA**
 
 - 📫 How to reach me **yashk9293@gmail.com**
 
