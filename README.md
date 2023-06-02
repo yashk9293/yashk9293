@@ -2,7 +2,7 @@
 
 **`MERN Stack Developer | Competitive Programmer`**
 
-I'm a full stack developer and I love to do Competitive Programming and DSA. I am pursuing my Bachelors of Technology from Indian Institute of Information Technology, Bhagalpur (2021 - 25).
+I'm a full stack developer, I love to do Competitive Programming and I'm a coding enthusiast. I am pursuing my Bachelors of Technology from Indian Institute of Information Technology, Bhagalpur (2021 - 25).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk9293&label=Profile%20views&color=0e75b6&style=flat" alt="yashk9293" /> </p>
 
