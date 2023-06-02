@@ -13,6 +13,8 @@ I'm a full stack developer and I love to do Competitive Programming and DSA. I a
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yashk9293?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+- 🌱 I’m currently learning **React**
+
 - 💬 Ask me about **Web Dev, CP, DSA**
 
 - 📫 How to reach me **yashk9293@gmail.com**
