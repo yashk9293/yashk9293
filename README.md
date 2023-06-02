@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Hi, I'm Yash! Great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+ <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Coding+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 **`MERN Stack Developer | Competitive Programmer`**
 
 I'm a full stack developer, I love to do Competitive Programming and I'm a coding enthusiast. I am pursuing my Bachelors of Technology from Indian Institute of Information Technology, Bhagalpur (2021 - 25).
