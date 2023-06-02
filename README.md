@@ -1,4 +1,4 @@
-#🧑🏻‍💻 Yash Kumar
+# 🧑🏻‍💻 Yash Kumar
 
 **`MERN Stack Developer | Competitive Programmer`**
 
