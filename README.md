@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-<h3 align="center">MERN Stack Developer | Competitive Programmer</h3>
+#🧑🏻‍💻 Yash Kumar
+
+**`MERN Stack Developer | Competitive Programmer`**
+
+I'm a full stack developer and I love to do Competitive Programming and DSA. I am pursuing my Bachelors of Technology from Indian Institute of Information Technology, Bhagalpur.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk9293&label=Profile%20views&color=0e75b6&style=flat" alt="yashk9293" /> </p>
 
