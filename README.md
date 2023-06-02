@@ -24,6 +24,7 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 <a href="https://twitter.com/yashk_9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashk_9293" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashk9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashk9293" height="30" width="40" /></a>
 <a href="https://instagram.com/yashk9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashk9293" height="30" width="40" /></a>
+<a href="https://fb.com/yashk9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashk9293" height="30" width="40" /></a>
 </p>
 
 ### 🧰 Languages and Tools:
