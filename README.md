@@ -6,8 +6,7 @@ I'm a full stack developer and I love to do Competitive Programming and DSA. I a
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk9293&label=Profile%20views&color=0e75b6&style=flat" alt="yashk9293" /> </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/yashk_9293" target="blank"><img src="https://img.shields.io/twitter/follow/yashk_9293?logo=twitter&style=for-the-badge" alt="yashk_9293" /></a> 
+<p align="left">
   <a href="https://github.com/yashk9293?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yashk9293?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/yashk9293?tab=repositories&sort=stargazers">
