@@ -1,3 +1,7 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
 # 🧑🏻‍💻 Hi, I'm Yash! Great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Coding+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+..."></a>
 
@@ -52,6 +56,11 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&locale=en&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true" alt="yashk9293" /></p>
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
+
+![Snake animation](https://github.com/yashk9293/yashk9293/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 yashk9293/yashk9293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
