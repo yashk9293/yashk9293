@@ -20,7 +20,7 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yashk9293?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Web Dev, CP, DSA**
 
