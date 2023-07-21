@@ -67,9 +67,9 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 <img align="right" alt="programming" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" />
 
 
-- 🌱 I’m currently learning **Node.js**
+- Chapter Lead @**AlgoZenith Chapter IIIT Bhagalpur**
 
-- 💬 Ask me about **Web Dev, CP, DSA**
+- Content Writer @**GeeksforGeeks**
 
 - 📫 How to reach me **yashk9293@gmail.com**
 
