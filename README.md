@@ -79,10 +79,6 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-## Watch snake eating my github contributions
-
-![Snake animation](https://github.com/yashk9293/yashk9293/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 yashk9293/yashk9293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
