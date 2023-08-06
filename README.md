@@ -24,7 +24,7 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 
 - 💬 Ask me about **CP, DSA, Web Dev**
 
-- 📫 How to reach me **yashk9293@gmail.com**
+- 📫 How to reach me **yash.2101088ec@iiitbh.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
