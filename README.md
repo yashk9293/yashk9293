@@ -9,7 +9,7 @@
 
 I'm a full stack developer, I love to do Competitive Programming and I'm a coding enthusiast. I am pursuing my Bachelors of Technology from Indian Institute of Information Technology, Bhagalpur (2021 - 25).
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk9293&label=Profile%20views&color=0e75b6&style=flat" alt="yashk9293" /> </p>
 
