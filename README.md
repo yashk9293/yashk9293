@@ -24,7 +24,9 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 
 - 💬 Ask me about **CP, DSA, Web Dev**
 
-- 📫 How to reach me **yash.2101088ec@iiitbh.ac.in**
+- 📫 How to reach me **yashk9293@gmail.com**
+
+- 🧑‍💻 Open to peer-coding on **Leetcode**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +35,21 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 <a href="https://instagram.com/yashk9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashk9293" height="30" width="40" /></a>
 <a href="https://fb.com/yashk9293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashk9293" height="30" width="40" /></a>
 </p>
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashk9293" alt="yashk9293" /></a> </p>
+
+<!---
+<h3 align="left">Profile Links:</h3>
+<p align="left">
+<a href="https://leetcode.com/u/hSay5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hSay5/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/coderboy9293" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/coderboy9293" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/yashk9293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/yashk9293/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yashk9293" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="https://codeforces.com/profile/yashk9293" height="30" width="40" /></a>
+</p>
+--->
 
 ### 🧰 Languages and Tools:
 <p align="left"> 
@@ -60,6 +77,9 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> </p> 
 
 
+
+
+
 | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -69,16 +89,19 @@ I'm a full stack developer, I love to do Competitive Programming and I'm a codin
 
 - 🧑‍💻 Chapter Lead @**AlgoZenith Chapter IIIT Bhagalpur**
 
-- 📝 Content Writer @**GeeksforGeeks**
+- 📝 Technical Lead @**GeeksforGeeks IIIT Bhagalpur Chapter**
 
-- 🧑‍💻 Open to peer-coding on **Leetcode** and **Codeforces**
+- 📝 Alpha @**Microsoft Learn Student Ambassador (MLSA)**
 
 - ⚡ Interests - **Football, Esports, Cricket, Anime**
+
+
+
+
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
-
 
 
 <!---
