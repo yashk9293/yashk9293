@@ -37,7 +37,8 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
 </p>
 
 
-
+<br>
+<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashk9293" alt="yashk9293" /></a> </p>
 
@@ -83,6 +84,7 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+
 <!---
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> &nbsp;
@@ -114,6 +116,16 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
 
 | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashk9293&theme=tokyonight" width="auto" height="auto" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashk9293&theme=tokyonight" width="auto" height="auto" /> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashk9293&utcOffset=+8.0&theme=tokyonight" width="auto" height="auto" />
+</div>
+
+<br>
+<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
 
 
 <img align="right" alt="programming" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" />
