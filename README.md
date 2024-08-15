@@ -5,9 +5,9 @@
 # 🧑🏻‍💻 Hi, I'm Yash! Great to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Coding+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+..."></a>
 
-**`MERN Stack Developer | Competitive Programmer`**
+**`Full Stack Developer | Competitive Programmer`**
 
-Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Bachelors of Technology in Electronics & Communications Engineering (Major) and Computer Science Engineering (Minor) from Indian Institute of Information Technology, Bhagalpur (2021 - 25).
+Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Bachelors of Technology in Electronics & Communications Engineering (Major) and Computer Science Engineering (Minor) from Indian Institute of Information Technology, Bhagalpur (2021 - 25). As a passionate MERN stack developer and competitive programmer, I specialize in crafting and scaling resilient, high-performance systems. My problem-solving skills and industry awareness drive me to deliver impactful solutions in every project. I thrive in collaborative environments where diverse ideas are valued and shared.
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -135,15 +135,17 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
 
 - 📝 Technical Lead @**GeeksforGeeks IIIT Bhagalpur Chapter**
 
-- 📝 Alpha @**Microsoft Learn Student Ambassador (MLSA)**
+- 📝 Beta @**Microsoft Learn Student Ambassador (MLSA)**
 
-- ⚡ Interests - **Football, Esports, Cricket, Anime**
+- ⚽ Interests - **Football, Esports, Cricket, Anime**
 
 - ⭐ Looking forward to have a successful professional career as a **Software Developer**
 
 - 🚀 Love to talk about **Research and Innovation !**
 
 - ❄️ Always excited to work on new technologies.💙
+
+- 🤝 Thrive in collaborative environments where diverse ideas are valued and shared.
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
