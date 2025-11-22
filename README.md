@@ -20,13 +20,13 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yashk9293?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **CP, DSA, Web Dev**
 
 - 📫 How to reach me **yashk9293@gmail.com**
 
-- 🧑‍💻 Open to peer-coding on **Leetcode**.
+- 🧑‍💻 Open to peer-coding on **Leetcode and Codeforces**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
