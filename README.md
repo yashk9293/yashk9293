@@ -7,7 +7,7 @@
 
 **`Full Stack Developer | Competitive Programmer`**
 
-Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Bachelors of Technology in Electronics & Communications Engineering (Major) and Computer Science Engineering (Minor) from Indian Institute of Information Technology, Bhagalpur (2021 - 25). As a passionate MERN stack developer and competitive programmer, I specialize in crafting and scaling resilient, high-performance systems. My problem-solving skills and industry awareness drive me to deliver impactful solutions in every project. I thrive in collaborative environments where diverse ideas are valued and shared.
+Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusiast and software developer. I have completed my Bachelors of Technology in Electronics & Communications Engineering (Major) with a Minor in Computer Science Engineering from Indian Institute of Information Technology, Bhagalpur (2021 - 25). I am a full-stack software developer and competitive programmer with strong experience in JavaScript/TypeScript ecosystems (MERN, Next.js) and Java-based backend systems (Spring Boot). I focus on building and scaling resilient, high-performance, production-ready applications. With a solid foundation in data structures, object-oriented design, and system development, I enjoy solving complex problems and staying aligned with industry trends to deliver impactful, production-ready solutions. I thrive in collaborative environments where ideas are shared, challenged, and transformed into meaningful outcomes.
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -41,6 +41,9 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashk9293" alt="yashk9293" /></a> </p>
+
+
+
 
 <!---
 <h3 align="left">Profile Links:</h3>
@@ -114,7 +117,7 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
 
 
 
-| <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -130,24 +133,23 @@ Hi, I'm Yash Kumar (@yashk9293) a tech enthusiast. I am currently pursuing my Ba
 
 <img align="right" alt="programming" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" />
 
+- 🧑‍💻 Ex-Chapter Lead @**AlgoZenith Chapter IIIT Bhagalpur**
 
-- 🧑‍💻 Chapter Lead @**AlgoZenith Chapter IIIT Bhagalpur**
+- 🛠️ Ex-Technical Lead @**GeeksforGeeks IIIT Bhagalpur Chapter**
 
-- 📝 Technical Lead @**GeeksforGeeks IIIT Bhagalpur Chapter**
-
-- 📝 Beta @**Microsoft Learn Student Ambassador (MLSA)**
+- 📝 Ex-Beta @**Microsoft Learn Student Ambassador (MLSA)**
 
 - ⚽ Interests - **Football, Esports, Cricket, Anime**
 
-- ⭐ Looking forward to have a successful professional career as a **Software Developer**
+- ⭐ **Software Developer** driven by impact, building systems that scale, perform, and stand the test of real users
 
 - 🚀 Love to talk about **Research and Innovation !**
 
 - ❄️ Always excited to work on new technologies.💙
 
-- 🤝 Thrive in collaborative environments where diverse ideas are valued and shared.
+- 🧩 Thrive in collaborative environments where diverse ideas are valued and shared.
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- 💡 Fun fact **Coding is a passion and not profession.**
 
 
 <a href="#">
