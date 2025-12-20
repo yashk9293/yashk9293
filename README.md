@@ -40,7 +40,12 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 <br>
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashk9293" alt="yashk9293" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashk9293" alt="yashk9293" /></a> </p> -->
+
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=yashk9293&theme=radical&no-bg=true&no-frame=true"  alt="github profile trophy"/>
+</div>
+
 
 
 
