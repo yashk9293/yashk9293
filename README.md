@@ -124,6 +124,8 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 --->
 
 
+<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
+
 <div align="center"> 
     <img loading="lazy" width="24" align="center" src="https://github.com/montasim/montasim/blob/main/media/icons/pie-chart.png" alt="pie chart png" />
     <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=220&height=24&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
@@ -173,6 +175,15 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 - 🧩 Thrive in collaborative environments where diverse ideas are valued and shared
 
 - 🚀 Interested in research-driven problem solving and innovation
+
+<br/>
+
+<div align="center">
+  <img loading="lazy" width="24" src="https://github.com/montasim/montasim/blob/main/media/icons/cv.png" alt="resume icon" />
+  <a href="https://drive.google.com/file/d/1ziyW9PNFeSLIX72xtO1jI83QHbxSCKoS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+      <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=395&height=24&lines=DOWNLOAD+OR+VIEW+MY+RESUME" alt="DOWNLOAD OR VIEW MY RESUME" />
+  </a>
+</div>
 
 
 <a href="#">
