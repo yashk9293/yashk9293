@@ -5,8 +5,11 @@
 # 🧑🏻‍💻 Hi, I'm Yash! Great to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Coding+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+..."></a>
 
-**`Full Stack Developer | Competitive Programmer`**
+🚀 **`Digital Specialist Engineer @ Infosys`**  
+💻 **`Full Stack & Backend Engineer | DSA & System Design`**  
+🎯 **`Actively seeking SDE roles (MAANG / Product-Based Companies)`**
 
+## 👨‍💻 About Me
 Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusiast and software developer. I have completed my Bachelors of Technology in Electronics & Communications Engineering (Major) with a Minor in Computer Science Engineering from Indian Institute of Information Technology, Bhagalpur (2021 - 25). I am a full-stack software developer and competitive programmer with strong experience in JavaScript/TypeScript ecosystems (MERN, Next.js) and Java-based backend systems (Spring Boot). I focus on building and scaling resilient, high-performance, production-ready applications. With a solid foundation in data structures, object-oriented design, and system development, I enjoy solving complex problems and staying aligned with industry trends to deliver impactful, production-ready solutions. I thrive in collaborative environments where ideas are shared, challenged, and transformed into meaningful outcomes.
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -22,11 +25,11 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **CP, DSA, Web Dev**
+- 💬 Ask me about **Data Structures & Algorithms, Backend Engineering, System Design**
 
 - 📫 How to reach me **yashk9293@gmail.com**
 
-- 🧑‍💻 Open to peer-coding on **Leetcode and Codeforces**.
+- 🧑‍💻 Open to collaborative problem-solving on **Leetcode and Codeforces**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -121,16 +124,37 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 --->
 
 
+<div align="center"> 
+    <img loading="lazy" width="24" align="center" src="https://github.com/montasim/montasim/blob/main/media/icons/pie-chart.png" alt="pie chart png" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=220&height=24&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
+</div>
 
-| <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<br/>
 
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashk9293&theme=tokyonight" width="auto" height="auto" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashk9293&theme=tokyonight" width="auto" height="auto" /> 
+  <img loading="lazy" width=auto src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&hide_title=false&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashk9293&theme=tokyonight" width="auto" height="auto" /> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashk9293&utcOffset=+8.0&theme=tokyonight" width="auto" height="auto" />
 </div>
+
+<div align="center">
+    <!-- GitHub streak start -->
+    <img loading="lazy" width=396 src="https://montasim-github-readme-streak-stats.vercel.app?user=yashk9293&hide_current_streak=true&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
+    <!-- GitHub streak end -->
+    <!-- GitHub stats start -->
+    <img loading="lazy" width=396 src="https://montasim-github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" alt="github stats" />
+    <!-- GitHub stats end -->
+</div>
+
+| <img align="center" src="https://montasim-github-readme-streak-stats.vercel.app?user=yashk9293&hide_current_streak=true&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" /> | <img align="center" src="https://montasim-github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" alt="Yash's github stats" /> |
+| ------------- | ------------- |
+
+
+<!-- <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashk9293&utcOffset=+8.0&theme=tokyonight" width="auto" height="auto" />
+</div> -->
 
 <br>
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
@@ -160,6 +184,11 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
+
+
+
+
+
 
 
 
