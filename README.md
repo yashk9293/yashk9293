@@ -1,11 +1,11 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=100&section=header"/>
 </a>
 
 # 🧑🏻‍💻 Hi, I'm Yash! Great to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Coding+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+..."></a>
 
-🚀 **`Digital Specialist Engineer @ Infosys`**  
+🚀 **`DIGITAL SPECIALIST ENGINEER @INFOSYS`**  
 💻 **`Full Stack & Backend Engineer | DSA & System Design`**  
 🎯 **`Actively seeking SDE roles (MAANG / Product-Based Companies)`**
 
@@ -215,9 +215,33 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
   </a>
 </div>
 
+<br/>
+<br/>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h2 align="center">🤓 Fun Facts</h2>
+        <p align="center">
+            <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
+        </p>
+      </td>
+      <td width="50%">
+        <h2 align="center">🧩 Thought of the Day</h2>
+        <p align="center">
+           <img src="https://readme-daily-quotes.vercel.app/api?border_color=false">
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=100&section=footer"/>
 </a>
 
 
