@@ -198,6 +198,8 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 
 - 📝 Ex-Beta @**Microsoft Learn Student Ambassador (MLSA)**
 
+- 📬 **Postman API Fundamentals- Students expert**
+
 - ⚽ Interests - **Football, Esports, Cricket, Anime**
 
 - ⭐ **Software Developer** focused on building scalable, high-performance systems 
