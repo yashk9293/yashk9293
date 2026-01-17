@@ -168,26 +168,16 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 
 - ⚽ Interests - **Football, Esports, Cricket, Anime**
 
-- ⭐ **Software Developer** driven by impact, building systems that scale, perform, and stand the test of real users
+- ⭐ **Software Developer** focused on building scalable, high-performance systems 
 
-- 🚀 Love to talk about **Research and Innovation !**
+- 🧩 Thrive in collaborative environments where diverse ideas are valued and shared
 
-- ❄️ Always excited to work on new technologies.💙
-
-- 🧩 Thrive in collaborative environments where diverse ideas are valued and shared.
-
-- 💡 Fun fact **Coding is a passion and not profession.**
+- 🚀 Interested in research-driven problem solving and innovation
 
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
-
-
-
-
-
-
 
 
 
