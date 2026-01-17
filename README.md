@@ -10,7 +10,12 @@
 🎯 **`Actively seeking SDE roles (MAANG / Product-Based Companies)`**
 
 ## 👨‍💻 About Me
-Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusiast and software developer. I have completed my Bachelors of Technology in Electronics & Communications Engineering (Major) with a Minor in Computer Science Engineering from Indian Institute of Information Technology, Bhagalpur (2021 - 25). I am a full-stack software developer and competitive programmer with strong experience in JavaScript/TypeScript ecosystems (MERN, Next.js) and Java-based backend systems (Spring Boot). I focus on building and scaling resilient, high-performance, production-ready applications. With a solid foundation in data structures, object-oriented design, and system development, I enjoy solving complex problems and staying aligned with industry trends to deliver impactful, production-ready solutions. I thrive in collaborative environments where ideas are shared, challenged, and transformed into meaningful outcomes.
+Hi, I'm [Yash Kumar](https://github.com/yashk9293), a Software Engineer with a strong foundation in Data Structures, Algorithms, and system-oriented development. I hold a Bachelor of Technology
+in Electronics & Communication Engineering (Major) with a Minor in Computer Science Engineering from **Indian Institute of Information Technology, Bhagalpur (2021–2025)**.
+
+I specialize in building **scalable, high-performance applications** using **JavaScript/TypeScript (MERN, Next.js)** and **Java-based backend systems (Spring Boot)**. With hands-on experience in full-stack and backend development, I focus on clean architecture, performance optimization, and writing production-grade code.
+
+I enjoy solving complex problems, applying strong object-oriented design principles, and working in collaborative engineering environments to build systems that scale and deliver real-world impact.
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -247,6 +252,11 @@ Hi, I'm Yash Kumar ([@yashk9293](https://github.com/yashk9293)) a tech enthusias
 </a>
 
 
+<!-- build with love svg start -->
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+YASH" alt="build with love svg" />
+</div>
+<!-- build with love svg end -->
 
 
 <!---
