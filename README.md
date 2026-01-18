@@ -188,8 +188,6 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashk9293&theme=radical" alt="Profile Summary" />
-
-  <img src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&hide_title=false&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
 </div>
 
 
