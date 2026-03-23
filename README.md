@@ -17,6 +17,23 @@ I specialize in building **scalable, high-performance applications** using **Jav
 
 I enjoy solving complex problems, applying strong object-oriented design principles, and working in collaborative engineering environments to build systems that scale and deliver real-world impact.
 
+
+
+
+<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
+
+<div>
+  <img loading="lazy" width="24" src="https://github.com/montasim/montasim/blob/main/media/icons/cv.png" alt="resume icon" />
+  <a href="https://drive.google.com/file/d/1VW7bCpYAVvPACpMPL9-SsjAyvKDPz_us/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=395&height=24&lines=DOWNLOAD+OR+VIEW+MY+RESUME" alt="DOWNLOAD OR VIEW MY RESUME" />
+  </a>
+</div>
+
+<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
+
+
+
+
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk9293&label=Profile%20views&color=0e75b6&style=flat" alt="yashk9293" /> </p>
@@ -219,14 +236,6 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 - 🚀 Interested in research-driven problem solving and innovation
 
 <br/>
-
-<div align="center">
-  <img loading="lazy" width="24" src="https://github.com/montasim/montasim/blob/main/media/icons/cv.png" alt="resume icon" />
-  <a href="https://drive.google.com/file/d/1VW7bCpYAVvPACpMPL9-SsjAyvKDPz_us/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-      <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=395&height=24&lines=DOWNLOAD+OR+VIEW+MY+RESUME" alt="DOWNLOAD OR VIEW MY RESUME" />
-  </a>
-</div>
-
 <br/>
 <br/>
 
