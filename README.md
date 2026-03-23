@@ -222,7 +222,7 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 
 <div align="center">
   <img loading="lazy" width="24" src="https://github.com/montasim/montasim/blob/main/media/icons/cv.png" alt="resume icon" />
-  <a href="https://drive.google.com/file/d/1ziyW9PNFeSLIX72xtO1jI83QHbxSCKoS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1VW7bCpYAVvPACpMPL9-SsjAyvKDPz_us/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=395&height=24&lines=DOWNLOAD+OR+VIEW+MY+RESUME" alt="DOWNLOAD OR VIEW MY RESUME" />
   </a>
 </div>
