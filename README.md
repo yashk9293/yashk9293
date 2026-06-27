@@ -13,23 +13,25 @@
 Hi, I'm [Yash Kumar](https://github.com/yashk9293), a Software Engineer with a strong foundation in Data Structures, Algorithms, and system-oriented development. I hold a Bachelor of Technology
 in Electronics & Communication Engineering (Major) with a Minor in Computer Science Engineering from **Indian Institute of Information Technology, Bhagalpur (2021–2025)**.
 
-I specialize in building **scalable, high-performance applications** using **JavaScript/TypeScript (MERN, Next.js)** and **Java-based backend systems (Spring Boot)**. With hands-on experience in full-stack and backend development, I focus on clean architecture, performance optimization, and writing production-grade code.
+I specialize in building **scalable, high-performance applications** using **Next.js, Golang, TypeScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL and more**. With hands-on experience in full-stack and backend development, I focus on clean architecture, performance optimization, and writing production-grade code.
 
 I enjoy solving complex problems, applying strong object-oriented design principles, and working in collaborative engineering environments to build systems that scale and deliver real-world impact.
 
 
 
 
-<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
+<!-- <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div>
-  <img loading="lazy" width="24" src="https://github.com/montasim/montasim/blob/main/media/icons/cv.png" alt="resume icon" />
-  <a href="https://drive.google.com/file/d/1VW7bCpYAVvPACpMPL9-SsjAyvKDPz_us/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <!-- <img loading="lazy" width="24" src="https://github.com/montasim/montasim/blob/main/media/icons/cv.png" alt="resume icon" /> -->
+  <a href="https://drive.google.com/file/d/1Rl1dKahVKOChq3Dg6I2kdj9oDTWFaMfU/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=395&height=24&lines=DOWNLOAD+OR+VIEW+MY+RESUME" alt="DOWNLOAD OR VIEW MY RESUME" />
   </a>
 </div>
 
-<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
+<!-- <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
@@ -45,13 +47,13 @@ I enjoy solving complex problems, applying strong object-oriented design princip
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yashk9293?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Data Structures & Algorithms, Backend Engineering, System Design**
 
 - 📫 How to reach me **yashk9293@gmail.com**
 
-- 🧑‍💻 Open to collaborative problem-solving on **Leetcode and Codeforces**.
+- 🧑‍💻 Open to collaborating on exciting projects, sharing knowledge, discussing new technologies, and solving real-world challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -179,7 +181,7 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
 
 <div align="center"> 
-    <img loading="lazy" width="24" align="center" src="https://github.com/montasim/montasim/blob/main/media/icons/pie-chart.png" alt="pie chart png" />
+    <!-- <img loading="lazy" width="24" align="center" src="https://github.com/montasim/montasim/blob/main/media/icons/pie-chart.png" alt="pie chart png" /> -->
     <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=220&height=24&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
 </div>
 
