@@ -7,7 +7,7 @@
 
 🚀 **`DIGITAL SPECIALIST ENGINEER @INFOSYS`**  
 💻 **`Full Stack & Backend Engineer | DSA & System Design`**  
-🎯 **`Actively seeking SDE roles (MAANG / Product-Based Companies)`**
+🎯 **`Actively seeking SDE roles`**
 
 ## 👨‍💻 About Me
 Hi, I'm [Yash Kumar](https://github.com/yashk9293), a Software Engineer with a strong foundation in Data Structures, Algorithms, and system-oriented development. I hold a Bachelor of Technology
@@ -105,17 +105,22 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=blue)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<!--
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logoColor=white)
+-->
 
 ### ORM & Database Access:
 ![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+<!-- 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+-->
 
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -229,7 +234,7 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 
 - 📬 **Postman API Fundamentals- Students expert**
 
-- ⚽ Interests - **Football, Esports, Cricket, Anime**
+- ⚽ Interests - **Football, Cricket, Anime**
 
 - ⭐ **Software Developer** focused on building scalable, high-performance systems 
 
