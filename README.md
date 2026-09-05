@@ -5,13 +5,12 @@
 # 🧑🏻‍💻 Hi, I'm Yash! Great to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Coding+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+..."></a>
 
-🚀 **`DIGITAL SPECIALIST ENGINEER @INFOSYS`**  
+🚀 **`FORWARD DEPLOYED ENGINEER (FDE) @Creatr`**  
 💻 **`Full Stack & Backend Engineer | DSA & System Design`**  
-🎯 **`Actively seeking SDE roles`**
+🎯 **`Building Scalable Products & Solving Real-World Engineering Problems`**
 
 ## 👨‍💻 About Me
-Hi, I'm [Yash Kumar](https://github.com/yashk9293), a Software Engineer with a strong foundation in Data Structures, Algorithms, and system-oriented development. I hold a Bachelor of Technology
-in Electronics & Communication Engineering (Major) with a Minor in Computer Science Engineering from **Indian Institute of Information Technology, Bhagalpur (2021–2025)**.
+Hi, I'm [Yash Kumar](https://github.com/yashk9293), a Software Engineer with a strong foundation in Data Structures, Algorithms, and system-oriented development. I hold a Bachelor of Technology in Electronics & Communication Engineering (Major) with a Minor in Computer Science Engineering from **Indian Institute of Information Technology, Bhagalpur (2021–2025)**.
 
 I specialize in building **scalable, high-performance applications** using **Next.js, Golang, TypeScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL and more**. With hands-on experience in full-stack and backend development, I focus on clean architecture, performance optimization, and writing production-grade code.
 
@@ -92,12 +91,12 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 ### Programming Languages:
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!--
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
--->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-013220?style=for-the-badge&logoColor=white)
+<!--
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+-->
 
 ### Frameworks/Libraries:
 ![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
