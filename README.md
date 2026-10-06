@@ -93,7 +93,7 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-013220?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-013220?style=for-the-badge&logo=sql&logoColor=white)
 <!--
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 -->
@@ -138,7 +138,7 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 
 ### Authentication & Services:
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Clerk](https://img.shields.io/badge/clerk-800080?style=for-the-badge&logoColor=white)
+![Clerk](https://img.shields.io/badge/clerk-800080?style=for-the-badge&logo=clerk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### Tools & Platforms:
