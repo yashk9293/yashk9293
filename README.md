@@ -24,7 +24,7 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 
 <div>
   <!-- <img loading="lazy" width="24" src="https://github.com/montasim/montasim/blob/main/media/icons/cv.png" alt="resume icon" /> -->
-  <a href="https://drive.google.com/file/d/1Rl1dKahVKOChq3Dg6I2kdj9oDTWFaMfU/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/16tebj7ekYNpOSZRTAMdkrRK5nsi09_aB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=395&height=24&lines=DOWNLOAD+OR+VIEW+MY+RESUME" alt="DOWNLOAD OR VIEW MY RESUME" />
   </a>
 </div>
@@ -134,6 +134,7 @@ I enjoy solving complex problems, applying strong object-oriented design princip
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=) 
 
 ### Authentication & Services:
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
